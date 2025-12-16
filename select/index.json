@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "SF東京",
+  "base_artist": "WurtS",
+  "createdAt": "2025-12-16T15:38:20.839315Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SF東京",
+      "artist": "WurtS",
+      "has_synced": false,
+      "path": "select/pl_01_SF東京_WurtS.txt"
+    }
+  ]
+}
